@@ -1,0 +1,6 @@
+[submodule "subprojects/prometheus-cpp"]
+	path = subprojects/prometheus-cpp
+	url = https://github.com/jupp0r/prometheus-cpp
+[submodule "lib/ryzen-smu"]
+	path = lib/ryzen-smu
+	url = https://gitlab.com/leogx9r/ryzen_smu
